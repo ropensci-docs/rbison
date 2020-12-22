@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "8bb5ff43768e5f82d17bc3d7480dba4cdb6b31fa",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2020-12-22 22:58:58",
+    "files": 1,
+    "merge": false,
+    "message": "fix install deps for real requests - only need rcmdcheck\n"
+  },
+  "remote": "https://github.com/ropensci/rbison",
+  "pkg": "rbison"
+}
